@@ -6,14 +6,14 @@ Not Updating the code, fixes are welcome. I will try to merge your code as early
 Run the  command to install the only package needed `selenium`.  
 
 - `sudo apt install python3-selenium`
-- `git clone https://github.com/snapfast/AutoMates`
+- `git clone https://github.com/balivarun/Linkdin-Auto`
 - `cd Automates`
 - `python run.py`
 - Just use the menu to do things.
 
 This program is only supported on Python 3.10 and above.
 
-### For adding new features/ideas, open a new issue [here](https://github.com/snapfast/AutoMates/issues/new).
+### For adding new features/ideas, open a new issue [here](https://github.com/balivarun/Linkdin-Auto/issues/new).
 
 ## Selenium Manager
 
